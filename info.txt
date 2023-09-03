@@ -9,3 +9,9 @@ PS C:\Users\user\Github\localrepo> echo "# localrepo" >> README.md
 >> git branch -M main
 >> git remote add origin https://github.com/Ajinkya-commits/localrepo.git
 >> git push -u origin main
+
+
+//branch
+1. git checkout
+2. git checkout -b (new branch name )
+3. git branch -d (to delete a branch/name)
